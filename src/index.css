@@ -1,0 +1,11 @@
+@import './styles/global.css';
+@import './styles/Layout.css';
+@import './styles/App.css';
+@import './styles/components/Navbar.css';
+@import './styles/components/BookGrid.css';
+@import './styles/components/BookList.css';
+@import './styles/components/BookDetails.css';
+@import './styles/components/Favorites.css';
+@import './styles/components/Button.css';
+
+/* Override any conflicting styles if necessary */

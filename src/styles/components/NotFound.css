@@ -1,0 +1,21 @@
+.not-found {
+  text-align: center;
+  padding: var(--spacing-2xl);
+  background: var(--color-surface);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  max-width: 600px;
+  margin: var(--spacing-2xl) auto;
+}
+
+.not-found h2 {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  color: var(--color-error);
+  margin-bottom: var(--spacing-md);
+}
+
+.not-found p {
+  color: var(--color-text-secondary);
+  margin-bottom: var(--spacing-xl);
+} 
